@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**MrLoPH098/MrLoPH098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Ali Akbar Bechari**.
 
-Here are some ideas to get you started:
+🎓 Computer Networks Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Network Software Engineering
+
+🐍 Learning Python
+
+🐧 Linux Enthusiast
+
+🌐 Exploring Networking & Automation
+
+---
+
+## About Me
+
+I enjoy building networking tools and learning how software can improve modern networks.
+
+Currently learning:
+
+- Python
+- Linux
+- TCP/IP
+- Socket Programming
+- Docker
+- Git & GitHub
+
+---
+
+## Goals
+
+- Become a Network Software Engineer
+- Build useful open-source networking tools
+- Learn something new every day
+
+---
+
+## Connect with Me
+
+- LinkedIn
+- Telegram
