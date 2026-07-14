@@ -1,6 +1,7 @@
+
 # Hi there 👋
 
-I'm **Ali Akbar Bechari**.
+# Ali Akbar Bechari | MrLoPH
 
 🎓 Computer Networks Student
 
@@ -39,5 +40,4 @@ Currently learning:
 
 ## Connect with Me
 
-- LinkedIn
-- Telegram
+- Telegram: https://t.me/YourUsername
