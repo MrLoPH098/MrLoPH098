@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-# Ali Akbar Bechari | MrLoPH
+# Ali Akbar Bachari | MrLoPH
 
 🎓 Computer Networks Student
 
